@@ -1,0 +1,18 @@
+#ofertas h3, h4{
+	text-align: center;
+}
+
+#ofertas .contenedor{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#ofertas article{
+	margin: 15px;
+}
+
+#ofertas img{
+	width: 100%
+	max-width:280px;
+}
